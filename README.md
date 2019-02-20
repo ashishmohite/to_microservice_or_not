@@ -1,9 +1,8 @@
 To Microservice, or Not To Microservice: that is the question !!
 
+| Title                                                      | Author  | Link                                                                                     |
 |---------------------------------------------------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|Title|Author|Link|
 | Monolith First                                                      | https://twitter.com/martinfowler/  | https://martinfowler.com/bliki/MonolithFirst.html                                                                                     |
-
 | In Defence of the Monolith part 1                                   | https://twitter.com/dkhaywood      | https://www.infoq.com/articles/monolith-defense-part-1                                                                                |
 | In Defence of the Monolith part 2                                   | https://twitter.com/dkhaywood      | https://www.infoq.com/articles/monolith-defense-part-2                                                                                |
 | The fast-moving monolith                                            | Raffaele Spazzoli                  | https://developers.redhat.com/blog/2016/10/27/the-fast-moving-monolith-how-we-sped-up-delivery-from-every-three-months-to-every-week/ |
