@@ -28,3 +28,10 @@ To Microservice, or Not To Microservice: that is the question !!
 | Rethinking Legacy and Monolithic Systems                            | https://twitter.com/VaughnVernon   | https://www.infoq.com/presentations/monolith-legacy-rethinking                                                                        |
 | Don't use Microservices                                             | Jens Boje                          | https://codeboje.de/do-not-use-microservices/                                                                                         |
 | Developers Are The Problem, Not Monoliths                           | Jens Boje                          | https://codeboje.de/developers-problem-not-monoliths/                                                                                 |
+
+
+
+
+## Links
+
+https://zepworks.com/posts/faster-better-cheaper-and-re-architecture/
